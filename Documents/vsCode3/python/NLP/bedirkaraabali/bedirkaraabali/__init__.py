@@ -1,3 +1,3 @@
-from isim import print_name
+from . import print_name
 
 print_name('bedir')
